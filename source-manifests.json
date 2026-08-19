@@ -1,0 +1,23 @@
+{
+  "preservation": {
+    "reuse_images": true,
+    "preserve_action_urls": true,
+    "preserve_content": true
+  },
+  "audited_at": "2026-08-13",
+  "pages": [
+    {"source": "https://redprohost.com/", "output": "index.html", "title": "Home - Red Pro Host", "canonical": "https://redprohost.com/", "plan_count": 6, "image_hosts": ["redprohost.com"]},
+    {"source": "https://redprohost.com/web-hosting/", "output": "web-hosting.html", "title": "Web Hosting - Red Pro Host", "canonical": "https://redprohost.com/web-hosting/", "plan_count": 6, "image_hosts": ["redprohost.com"]},
+    {"source": "https://redprohost.com/wordpress-hosting/", "output": "wordpress-hosting.html", "title": "WordPress Hosting - Red Pro Host", "canonical": "https://redprohost.com/wordpress-hosting/", "plan_count": 6, "image_hosts": ["redprohost.com"]},
+    {"source": "https://redprohost.com/vps/", "output": "vps.html", "title": "VPS - Red Pro Host", "canonical": "https://redprohost.com/vps/", "plan_count": 16, "image_hosts": ["redprohost.com"]},
+    {"source": "https://redprohost.com/dedicated-servers/", "output": "dedicated-servers.html", "title": "Dedicated Servers - Red Pro Host", "canonical": "https://redprohost.com/dedicated-servers/", "plan_count": 10, "image_hosts": ["redprohost.com"]},
+    {"source": "https://redprohost.com/lifetime-hosting/", "output": "lifetime-hosting.html", "title": "Lifetime hosting - Red Pro Host", "canonical": "https://redprohost.com/lifetime-hosting/", "plan_count": 3, "image_hosts": ["redprohost.com"]}
+  ],
+  "competitor_references": [
+    "https://www.hostinger.com/pk",
+    "https://www.hostinger.com/pk/web-hosting",
+    "https://www.hostinger.com/pk/wordpress-hosting",
+    "https://www.hostinger.com/pk/vps-hosting"
+  ],
+  "competitor_cues_used": ["clear hierarchy", "high-contrast navigation", "spacious hero", "aligned pricing cards", "strong CTA placement", "responsive product navigation"]
+}

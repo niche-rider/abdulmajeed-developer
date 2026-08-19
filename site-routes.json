@@ -1,0 +1,32 @@
+{
+  "home": {"name": "Home", "url": "index.html"},
+  "products": [
+    {"name": "Web Hosting", "url": "web-hosting.html"},
+    {"name": "WordPress Hosting", "url": "wordpress-hosting.html"},
+    {"name": "VPS", "url": "vps.html"},
+    {"name": "Dedicated Servers", "url": "dedicated-servers.html"},
+    {"name": "Lifetime Hosting", "url": "lifetime-hosting.html"}
+  ],
+  "top_products": [
+    {"name": "Web Hosting", "url": "web-hosting.html"},
+    {"name": "WordPress Hosting", "url": "wordpress-hosting.html"},
+    {"name": "VPS", "url": "vps.html"},
+    {"name": "Dedicated Servers", "url": "dedicated-servers.html"},
+    {"name": "Lifetime Hosting", "url": "lifetime-hosting.html"}
+  ],
+  "account_navigation": [
+    {"name": "Client Area", "url": "https://redprohost.com/panel/register.php"}
+  ],
+  "footer_navigation": [
+    {"group": "Company", "links": [{"name": "Contact Us", "url": "https://demo.redprohost.com/contact-us/"}]},
+    {"group": "Support", "links": [
+      {"name": "Submit Ticket", "url": "https://redprohost.com/panel/submitticket.php"},
+      {"name": "Knowledge Base", "url": "https://redprohost.com/panel/knowledgebase.php"}
+    ]},
+    {"group": "Orders", "links": [
+      {"name": "Domain Register", "url": "https://redprohost.com/panel/cart.php?a=add&domain=register"},
+      {"name": "Order Of Service", "url": "https://redprohost.com/panel/cart.php"}
+    ]}
+  ],
+  "domain_search": {"action": "https://redprohost.com/", "method": "get", "query_parameter": "domain", "tld_parameter": "tld"}
+}
